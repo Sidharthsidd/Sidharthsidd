@@ -1,4 +1,4 @@
-# Hi there, I'm Sidharth - aka [Sidharthsidd][https://github.com/Sidharthsidd] 👋
+# Hi there, I'm Sidharth - aka [Sidharthsidd]👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sidharth-2517ba278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
