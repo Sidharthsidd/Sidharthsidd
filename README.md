@@ -10,6 +10,8 @@
 - 🥅 2024 Goals: Learn more about web development and DSA
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
+![GitHub stars](https://img.shields.io/github/stars/Sidharthsidd/repository?style=social)
+
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sidharth-2517ba278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
