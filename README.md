@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Learn more about web development and DSA
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to draw 
 
 ### Connect with me:
 
