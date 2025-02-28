@@ -63,18 +63,18 @@
    [![Live Demo](https://img.shields.io/badge/Demo-4ABDAC?style=for-the-badge)](final-year-project-alpha-seven.vercel.app)
 
 
-
+<!--
 ---
 
 ## 🎯 2025 Goals
 
-- [x] Complete 100+ LeetCode challenges
+- [x] Complete  LeetCode challenges
 - [ ] Build 3 production-ready full-stack apps
 - [ ] Contribute to 5+ open-source projects
 - [ ] Master advanced React patterns
 
 ---
-
+-->
 ## 📫 Let's Connect!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
