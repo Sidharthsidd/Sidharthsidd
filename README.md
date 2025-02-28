@@ -1,28 +1,89 @@
-# Hi there, I'm Sidharth - aka [Sidharthsidd]👋
+# Hi there, I'm Sidharth Sidd 🚀
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sidharth-2517ba278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![GitHub Followers](https://img.shields.io/github/followers/Sidharthsidd?label=Follow&style=for-the-badge)](https://github.com/Sidharthsidd)
+![Visitor Count](https://komarev.com/ghpvc/?username=Sidharthsidd&color=blueviolet&style=for-the-badge)
 
-## I'm a Developer and Student!!
+**`Developer | Problem Solver | Continuous Learner`**
 
-- 🔭 I’m currently working on various projects
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Learn more about web development and DSA
-- ⚡ Fun fact: I love to draw 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4ABDAC&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code+since+2020;Full-stack+developer+in+training;DSA+enthusiast;Open-source+contributor" alt="Typing SVG" />
+</div>
 
-### Connect with me:
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sidharth-2517ba278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## 👨💻 About Me
 
-### Languages and Tools:
+🎓 Computer Science Student  
+💡 Passionate about building impactful solutions  
+🎨 UI/UX enthusiast who loves to code _and_ draw  
+🚀 Currently fueling growth through:
+- 🔭 Multiple full-stack projects
+- 🌱 Advanced DSA & System Design
+- 👯 Open-source contributions
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+---
 
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+## 🛠️ Tech Stack
 
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Sidharthsidd">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sidharthsidd&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidharthsidd&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+  </a>
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+1. **Project Alpha** - Full-stack eCommerce solution  
+   [![GitHub](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](link)
+   [![Live Demo](https://img.shields.io/badge/Demo-4ABDAC?style=for-the-badge)](link)
+
+2. **DSA Visualizer** - Interactive algorithm trainer  
+   [![GitHub](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](link)
+   [![Live Demo](https://img.shields.io/badge/Demo-4ABDAC?style=for-the-badge)](link)
+
+---
+
+## 🎯 2024 Goals
+
+- [x] Complete 100+ LeetCode challenges
+- [ ] Build 3 production-ready full-stack apps
+- [ ] Contribute to 5+ open-source projects
+- [ ] Master advanced React patterns
+
+---
+
+## 📫 Let's Connect!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sidharthsidd?theme=dark&font=ABeeZee)
+
+⭐ From [Sidharthsidd](https://github.com/Sidharthsidd)
