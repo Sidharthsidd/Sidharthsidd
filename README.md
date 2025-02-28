@@ -7,7 +7,7 @@
 **`Developer | Problem Solver | Continuous Learner`**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4ABDAC&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code+since+2020;Full-stack+developer+in+training;DSA+enthusiast;Open-source+contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4ABDAC&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code+since+2023;Full-stack+developer+in+training;DSA+enthusiast;Open-source+contributor" alt="Typing SVG" />
 </div>
 
 ---
