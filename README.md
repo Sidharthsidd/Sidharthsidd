@@ -1,6 +1,6 @@
 # Hi there, I'm Sidharth Sidd 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidharth-2517ba278/)
 [![GitHub Followers](https://img.shields.io/github/followers/Sidharthsidd?label=Follow&style=for-the-badge)](https://github.com/Sidharthsidd)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sidharthsidd&color=blueviolet&style=for-the-badge)
 
@@ -58,17 +58,15 @@
 
 ## 🏆 Featured Projects
 
-1. **Project Alpha** - Full-stack eCommerce solution  
-   [![GitHub](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](link)
-   [![Live Demo](https://img.shields.io/badge/Demo-4ABDAC?style=for-the-badge)](link)
+1. **Project Alpha** - food recommandation 
+   [![GitHub](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sidharthsidd/FinalYearProject.git)
+   [![Live Demo](https://img.shields.io/badge/Demo-4ABDAC?style=for-the-badge)](final-year-project-alpha-seven.vercel.app)
 
-2. **DSA Visualizer** - Interactive algorithm trainer  
-   [![GitHub](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](link)
-   [![Live Demo](https://img.shields.io/badge/Demo-4ABDAC?style=for-the-badge)](link)
+
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 
 - [x] Complete 100+ LeetCode challenges
 - [ ] Build 3 production-ready full-stack apps
@@ -80,7 +78,7 @@
 ## 📫 Let's Connect!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sidharth.ee1905@gmail.com)
 
 ---
 
